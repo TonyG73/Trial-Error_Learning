@@ -1,6 +1,6 @@
 Open Source Bike Share
 ============
-*The world's first low-cost and open source bike sharing system.*
+*TML's first open source bike sharing system.*
 
 Bottom-up bicycle sharing system suitable for smaller communities or areas such as campuses, companies etc.
 
@@ -8,7 +8,6 @@ Bottom-up bicycle sharing system suitable for smaller communities or areas such 
 Use *fully functional* ["breakthrough" version](https://github.com/mmmaly/OpenSourceBikeShare/tree/breakthrough) in the meantime.
 =======
 
-Website: [OpenSourceBikeShare.com](http://opensourcebikeshare.com)
 
 NOTE: Undergoing complete rewrite in Laravel framework.
 ---------
@@ -26,8 +25,6 @@ Features
 * Connector system to support any provider of SMS Gateway / API
 * Easy web install to launch system
 
-Where is it working?
----------
 3 bike sharing systems in 2 cities.
 
 ### Pilot project
